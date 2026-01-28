@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Albert's Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Albert's Tasks & Reminders
+X-WR-TIMEZONE:Australia/Brisbane
+X-WR-CALDESC:Tasks, reminders, and important dates from Albert
+
+END:VCALENDAR
