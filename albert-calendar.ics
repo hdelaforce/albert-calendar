@@ -7,4 +7,51 @@ X-WR-CALNAME:Albert's Tasks & Reminders
 X-WR-TIMEZONE:Australia/Brisbane
 X-WR-CALDESC:Tasks, reminders, and important dates from Albert
 
+BEGIN:VEVENT
+UID:aacta-meeting-20260129@albert.hudson
+DTSTAMP:20260128T170000Z
+DTSTART;TZID=Australia/Brisbane:20260129T130000
+DTEND;TZID=Australia/Brisbane:20260129T133000
+SUMMARY:AACTA Excursion Meeting
+LOCATION:I3.32
+DESCRIPTION:Compulsory meeting to discuss all things AACTA excursion. Must attend. Spread the word.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:quick-meeting-20260130@albert.hudson
+DTSTAMP:20260128T170000Z
+DTSTART;TZID=Australia/Brisbane:20260130T112000
+DTEND;TZID=Australia/Brisbane:20260130T115000
+SUMMARY:Quick Meeting - Bring Lunch & Passport Photo
+LOCATION:P201
+DESCRIPTION:First break meeting. BRING: Lunch and a photo of your passport (compulsory). Breaks are now only 30min - hustle!
+END:VEVENT
+
+BEGIN:VEVENT
+UID:qps-workexperience-20260512@albert.hudson
+DTSTAMP:20260128T170000Z
+DTSTART;TZID=Australia/Brisbane:20260512T090000
+DTEND;TZID=Australia/Brisbane:20260512T150000
+SUMMARY:QPS Work Experience - Day 1
+DESCRIPTION:Queensland Police Service (QPS) Work Experience - Day 1 of 3
+END:VEVENT
+
+BEGIN:VEVENT
+UID:qps-workexperience-20260513@albert.hudson
+DTSTAMP:20260128T170000Z
+DTSTART;TZID=Australia/Brisbane:20260513T090000
+DTEND;TZID=Australia/Brisbane:20260513T150000
+SUMMARY:QPS Work Experience - Day 2
+DESCRIPTION:Queensland Police Service (QPS) Work Experience - Day 2 of 3
+END:VEVENT
+
+BEGIN:VEVENT
+UID:qps-workexperience-20260514@albert.hudson
+DTSTAMP:20260128T170000Z
+DTSTART;TZID=Australia/Brisbane:20260514T090000
+DTEND;TZID=Australia/Brisbane:20260514T150000
+SUMMARY:QPS Work Experience - Day 3
+DESCRIPTION:Queensland Police Service (QPS) Work Experience - Day 3 of 3
+END:VEVENT
+
 END:VCALENDAR
