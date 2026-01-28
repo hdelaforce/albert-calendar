@@ -10,8 +10,8 @@ X-WR-CALDESC:Tasks, reminders, and important dates from Albert
 BEGIN:VEVENT
 UID:aacta-meeting-20260129@albert.hudson
 DTSTAMP:20260128T170000Z
-DTSTART;TZID=Australia/Brisbane:20260129T130000
-DTEND;TZID=Australia/Brisbane:20260129T133000
+DTSTART;TZID=Australia/Brisbane:20260129T124500
+DTEND;TZID=Australia/Brisbane:20260129T132000
 SUMMARY:AACTA Excursion Meeting
 LOCATION:I3.32
 DESCRIPTION:Compulsory meeting to discuss all things AACTA excursion. Must attend. Spread the word.
